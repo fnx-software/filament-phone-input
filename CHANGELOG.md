@@ -2,6 +2,50 @@
 
 All notable changes to `filament-phone-input` will be documented in this file
 
+## 3.1.8 - 2025-03-23
+
+### What's Changed
+
+* Update PhoneInputNumberType.php by @mehmethamza in https://github.com/ysfkaya/filament-phone-input/pull/72
+
+### New Contributors
+
+* @mehmethamza made their first contribution in https://github.com/ysfkaya/filament-phone-input/pull/72
+
+**Full Changelog**: https://github.com/ysfkaya/filament-phone-input/compare/v3.1.7...v3.1.8
+
+## 3.1.7 - 2025-03-10
+
+### What's Changed
+
+* Resolve critical vulnerability GHSA-vjh7-7g9h-fjfh by @Orrison in https://github.com/ysfkaya/filament-phone-input/pull/69
+
+### New Contributors
+
+* @Orrison made their first contribution in https://github.com/ysfkaya/filament-phone-input/pull/69
+
+**Full Changelog**: https://github.com/ysfkaya/filament-phone-input/compare/v3.1.6...v2.4.8
+
+## v2.4.8 - 2025-03-10
+
+### What's Changed
+
+* Resolve critical vulnerability GHSA-vjh7-7g9h-fjfh by @Orrison in https://github.com/ysfkaya/filament-phone-input/pull/69
+
+### New Contributors
+
+* @Orrison made their first contribution in https://github.com/ysfkaya/filament-phone-input/pull/69
+
+**Full Changelog**: https://github.com/ysfkaya/filament-phone-input/compare/v3.1.6...v2.4.8
+
+## v3.1.6 - 2025-02-22
+
+### What's Changed
+
+* Fix Alpine directive from 'ax-' to 'x-' in phone input view by @smiliyas in https://github.com/ysfkaya/filament-phone-input/pull/67
+
+**Full Changelog**: https://github.com/ysfkaya/filament-phone-input/compare/v3.1.5...v3.1.6
+
 ## 3.1.5 - 2025-02-10
 
 ### What's Changed
@@ -57,6 +101,10 @@ The flag images have been updated in the latest version of the `intl-tel-input` 
 
 ```bash
 php artisan vendor:publish --tag="filament-phone-input-assets" --force
+
+
+
+
 
 
 
